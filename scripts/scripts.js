@@ -1,0 +1,1 @@
+alert('this is triggering from the scripts.js file in scripts/scripts.js');
